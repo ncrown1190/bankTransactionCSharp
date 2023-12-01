@@ -1,0 +1,15 @@
+C:\Users\ncrow\OneDrive\Desktop\MyPersonal\C#_Mine\MyC#Projects\BankTransactions\bankTransaction\bin\Debug\net7.0\bankTransaction.exe
+C:\Users\ncrow\OneDrive\Desktop\MyPersonal\C#_Mine\MyC#Projects\BankTransactions\bankTransaction\bin\Debug\net7.0\bankTransaction.deps.json
+C:\Users\ncrow\OneDrive\Desktop\MyPersonal\C#_Mine\MyC#Projects\BankTransactions\bankTransaction\bin\Debug\net7.0\bankTransaction.runtimeconfig.json
+C:\Users\ncrow\OneDrive\Desktop\MyPersonal\C#_Mine\MyC#Projects\BankTransactions\bankTransaction\bin\Debug\net7.0\bankTransaction.dll
+C:\Users\ncrow\OneDrive\Desktop\MyPersonal\C#_Mine\MyC#Projects\BankTransactions\bankTransaction\bin\Debug\net7.0\bankTransaction.pdb
+C:\Users\ncrow\OneDrive\Desktop\MyPersonal\C#_Mine\MyC#Projects\BankTransactions\bankTransaction\obj\Debug\net7.0\bankTransaction.csproj.AssemblyReference.cache
+C:\Users\ncrow\OneDrive\Desktop\MyPersonal\C#_Mine\MyC#Projects\BankTransactions\bankTransaction\obj\Debug\net7.0\bankTransaction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ncrow\OneDrive\Desktop\MyPersonal\C#_Mine\MyC#Projects\BankTransactions\bankTransaction\obj\Debug\net7.0\bankTransaction.AssemblyInfoInputs.cache
+C:\Users\ncrow\OneDrive\Desktop\MyPersonal\C#_Mine\MyC#Projects\BankTransactions\bankTransaction\obj\Debug\net7.0\bankTransaction.AssemblyInfo.cs
+C:\Users\ncrow\OneDrive\Desktop\MyPersonal\C#_Mine\MyC#Projects\BankTransactions\bankTransaction\obj\Debug\net7.0\bankTransaction.csproj.CoreCompileInputs.cache
+C:\Users\ncrow\OneDrive\Desktop\MyPersonal\C#_Mine\MyC#Projects\BankTransactions\bankTransaction\obj\Debug\net7.0\bankTransaction.dll
+C:\Users\ncrow\OneDrive\Desktop\MyPersonal\C#_Mine\MyC#Projects\BankTransactions\bankTransaction\obj\Debug\net7.0\refint\bankTransaction.dll
+C:\Users\ncrow\OneDrive\Desktop\MyPersonal\C#_Mine\MyC#Projects\BankTransactions\bankTransaction\obj\Debug\net7.0\bankTransaction.pdb
+C:\Users\ncrow\OneDrive\Desktop\MyPersonal\C#_Mine\MyC#Projects\BankTransactions\bankTransaction\obj\Debug\net7.0\bankTransaction.genruntimeconfig.cache
+C:\Users\ncrow\OneDrive\Desktop\MyPersonal\C#_Mine\MyC#Projects\BankTransactions\bankTransaction\obj\Debug\net7.0\ref\bankTransaction.dll
